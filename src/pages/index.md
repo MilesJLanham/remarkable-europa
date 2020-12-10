@@ -10,10 +10,12 @@ sections:
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I am Miles Lanham A user experience design Student at Eastern Washington
+      University. My skill in my field has earned me a design internship at
+      ThyssenKrupp Online Metals that has since turned into a freelance
+      relationship in which I am called in to help design any assets they may
+      need. I have a passion for user experience design and making products and
+      applications easier for everyone to use. 
     actions:
       - label: Contact Me
         url: /contact
