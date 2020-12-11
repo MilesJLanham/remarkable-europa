@@ -8,7 +8,7 @@ date: '2019-03-27'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 template: post
-subtitle: A study in Empowering the Client
+subtitle: A study in Empowering The Client
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
