@@ -1,21 +1,32 @@
 ---
-title: Fragments of Iceland
+title: Studio Jacks
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
   making it the most sparsely populated country in Europe.
-date: '2019-03-27'
-thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+date: '2020-12-14'
+thumb_img_path: images/SJScreenShot1.png
+content_img_path: images/friendly-pineapple.png
 template: post
+subtitle: A study In Empowering The Client
 ---
 
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
+As Studio Jacks is going through a major change in their business they want a new modern website to take a fresh step forward. In addition, they want a strong and bold look to help them stand out from the competition. I need to make sure that while staying true to the current brand, we will make a new website that is easier to use and more visually appealing.
+However, there is one major limitation. The client isn’t the most tech savy and wants to keep their website on squarespace. This is entirley workable but it brings up another question. What will the client do when I have finished the project but they want to make changes or add to the website? To work with this, on top of designing the website I am going to teach Jack how to use Squarspace and create a written out plan to help him add to his blog or make any updates that he needs to make.
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
+In order to help Jack and his business there is a couple of steps we are going to have to take.
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
+**Step One:** Identifying issues with the current website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
+At first glance The web site feels empty. There is far too much white Space. The type on the images are hard to read as it is dark text on a black and white image. Some of the information seems redundant and several of the links on the home page take you back to the home page. Usability leaves quite a bit to be desired. I have difficulty finding their  location and contact nformation. Upon looking at their competition this website feels far too similar yet falls even shorter due to the anemic design.
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+**Step Two:** Planning.
+
+At this phase I boxed out the main parts of the existing websites in their colors and began to play with color. While experimenting I decided to grab some colors from the existing logo and tried to see what would go well with it. A big issue was while white worked it was boring and plain. Then I realized. I am not a fan of the basic white web page background. It is hard on the eyes and can give a user a headache. So I began to play around with some darker colors and found one I enjoyed. This helped a ton and made the webpage feel more full and allowed me to keep much of the original feel and look of the design while making the website feel more complete overall. For the text and buttons I decided to use the brown in the logo and it came out great. It is readable and adds a nice clean feel to it. In addition I added their location and contact information to the footer and main page to make sure people can find and contact them easily no matter where they are in the website.
+
+**Step Three:**
+This is the phase where I put all that planning into practice. I designed a layout and sent it off to the client and waited for some feedback. I got the necesary feedback and the client worried that the first design wasnt strong enough and the green buttons distracted him. I took his feedback and darkened some of the boxes and chose a more angular font. After some layout adjustments I sent it off to the client again and they loved it. While There are some things that will change in teh near future this is the home page currently
+
+**Final Step**
+
+This brings us to our final part of the proces. Helping the client own their website. Working with my client we wrote down all of the steps it will take him to write a blog post. The first thing we did was write his keyboard shortcuts at the top of the page in his notebook. After that we workshopped his process. First, he opens a google doc and writes his post. Then he copy and pastes his post into the grammarly browser extension in which he revises his post. After he has revised it he takes the post into square space in which he creates a new blog post which is very easy for him given their strong UI and a walk through from me. Then he pastes his blog entry into square space and formats it as he needs. Once that is all done he posts it and shares the link to his friends and social media. This process worked well and we used it to create his first post, The 100. Along with blog posts we will be going over how to use every aspect of SquareSpace so he can truly own his website.
