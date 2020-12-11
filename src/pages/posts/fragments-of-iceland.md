@@ -15,3 +15,8 @@ As Studio Jacks is going through a major change in their business they want a ne
 However, there is one major limitation. The client isn’t the most tech savy and wants to keep their website on squarespace. This is entirley workable but it brings up another question. What will the client do when I have finished the project but they want to make changes or add to the website? To work with this, on top of designing the website I am going to teach Jack how to use Squarspace and create a written out plan to help him add to his blog or make any updates that he needs to make.
 
 In order to help Jack and his business there is a couple of steps we are going to have to take.
+
+**Step One**: Identifying issues with the current website.
+
+At first glance The web site feels empty. There is far too much white Space. The type on the images are hard to read as it is dark text on a black and white image. Some of the information seems redundant and several of the links on the home page take you back to the home page. Usability leaves quite a bit to be desired. I have difficulty finding their  location and contact nformation. Upon looking at their competition this website feels far too similar yet falls even shorter due to the anemic design.
+
