@@ -7,7 +7,7 @@ excerpt: >-
   between rooms and indoor and outdoor space.
 date: '2020-12-07'
 thumb_img_path: images/Final-Yes we mean it.png
-content_img_path: images/2.jpg
+content_img_path: images/splendid-aspen.png
 template: post
 ---
 
