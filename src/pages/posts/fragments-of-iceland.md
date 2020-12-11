@@ -6,7 +6,7 @@ excerpt: >-
   making it the most sparsely populated country in Europe.
 date: '2020-12-14'
 thumb_img_path: images/SJScreenShot1.png
-content_img_path: images/7.jpg
+content_img_path: images/friendly-pineapple.png
 template: post
 subtitle: A study In Empowering The Client
 ---
