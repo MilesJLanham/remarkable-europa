@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: Hello and thank you for checking out my about page!
 img_path: images/terrific-tiger.jpg
 template: page
 ---
