@@ -1,10 +1,12 @@
 ---
 title: Senior Profiles
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+  The Eastern Washington Universty Design department is looking for a way to
+  commemerate and remember its seniors. We have been tasked with designing a fun
+  and interesting way. We have to show an image of the student, their bio, name,
+  and motto. Last but most importantly we must think of a way to incorporate an
+  NFC scanner. When the sticker is scanned it must bring up the correct students
+  profile with the required information.
 date: '2020-12-07'
 thumb_img_path: images/Final-Yes we mean it.png
 content_img_path: images/splendid-aspen.png
