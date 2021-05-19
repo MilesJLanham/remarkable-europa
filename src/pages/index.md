@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hello, Im Miles Lanham'
+    title: 'Hello, I''m Miles Lanham'
     content: Im a UX designer based in seattle washington.
   - section_id: about
     type: section_content
