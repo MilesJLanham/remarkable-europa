@@ -18,5 +18,6 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
+    section_id: Resume
 template: advanced
 ---
