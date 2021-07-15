@@ -21,4 +21,5 @@ sections:
     submit_label: lorem-ipsum
     type: section_form
 template: advanced
+excerpt: aaaaaaaaaaaaaa
 ---
