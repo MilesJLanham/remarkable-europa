@@ -2,8 +2,7 @@
 title: Resume
 hide_title: false
 sections:
-  - title: Resume
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
