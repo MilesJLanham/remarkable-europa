@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Resume
 hide_title: false
 sections:
   - title: lorem-ipsum
