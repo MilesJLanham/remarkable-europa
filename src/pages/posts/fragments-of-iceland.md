@@ -2,9 +2,7 @@
 title: Studio Jacks
 excerpt: >-
   As Studio Jacks is going through a major change in their business they want a
-  new modern website to take a fresh step forward. In addition, they want a
-  strong and bold look to help them stand out from the competition. I need to
-  make sure that while staying true to the curre
+  new modern website to reflect this new step in the right direction.
 date: '2020-12-14'
 thumb_img_path: images/SJScreenShot1.png
 content_img_path: images/friendly-pineapple.png
