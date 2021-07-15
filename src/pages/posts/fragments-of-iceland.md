@@ -4,8 +4,7 @@ excerpt: >-
   As Studio Jacks is going through a major change in their business they want a
   new modern website to take a fresh step forward. In addition, they want a
   strong and bold look to help them stand out from the competition. I need to
-  make sure that while staying true to the current brand, we will make a new
-  website that is easier to use and more visually appealing.
+  make sure that while staying true to the curre
 date: '2020-12-14'
 thumb_img_path: images/SJScreenShot1.png
 content_img_path: images/friendly-pineapple.png
