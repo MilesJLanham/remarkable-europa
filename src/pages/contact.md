@@ -36,5 +36,10 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
 template: advanced
 ---
